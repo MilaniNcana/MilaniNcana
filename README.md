@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MilaniNcana
+- 👀 I’m interested in Java & Python
+- 🌱 I’m currently learning Data Structures
+- 💞️ I’m looking to collaborate on anything that will expand my knowledge
+- 📫 Email me on milzgeorge@live.com or instagram @milz_george
