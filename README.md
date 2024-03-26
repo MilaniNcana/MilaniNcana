@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MilaniNcana
-- 👀 I’m interested in Java & Web Development 
-- 🌱 I’m currently learning Java (frontend & backend)
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java at CPUT
 - 💞️ I’m looking to collaborate on anything that will expand my knowledge and give job opportunities 
-- 📫 Email me on milzgeorge@live.com or instagram @milz_george
+- 📫 Email me on milzgeorge@live.com
