@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MilaniNcana
-- 👀 I’m interested in Java
+- 👀 I’m interested in finding solutions using technology
 - 🌱 I’m currently learning Application Development at CPUT
-- 💞️ I’m looking to collaborate on anything that will expand my knowledge and give job opportunities 
+- 💞️ I’m looking to collaborate on anything that will expand my knowledge and open industry opportunities 
 - 📫 Email me on milzgeorge@live.com
